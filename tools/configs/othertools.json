@@ -1,0 +1,49 @@
+[
+	{
+		"id":"0x4021",
+		"name":"MalwareShield",
+		"caption":"Embedding and Make Payloads FUD.",
+		"icon":"https://www.ultraamooz.com/tools/img/darker.png",
+		"url":"https://ultraamooz.com/product/bind-payload-to-file-malware-shield/"
+	}
+	,
+	{
+		"id":"0x4020",
+		"name":"UltraAmooz Academy",
+		"caption":"Programming training courses focusing on cyber security.",
+		"icon":"https://ultraamooz.com/tools/favicon.png",
+		"url":"https://ultraamooz.com/"
+	}
+		,
+	{
+		"id":"0x4020",
+		"name":"Hacking and security roadmap",
+		"caption":"How to become a hacker?",
+		"icon":"https://ultraamooz.com/wp-content/uploads/2023/06/rodmap-12-220x220.jpg",
+		"url":"https://ultraamooz.com/roadmap/"
+	}
+		,
+	{
+		"id":"0x4020",
+		"name":"Wifi Deauther gadget",
+		"caption":"Penetration testing of wireless networks",
+		"icon":"https://ultraamooz.com/wp-content/uploads/2023/07/IMG1_20230718_182309-150x150.png",
+		"url":"https://ultraamooz.com/product/ghost/"
+	}
+			,
+	{
+		"id":"0x4020",
+		"name":"Free SANS SEC573 (2024) Course",
+		"caption":"Learn Python from hacker's perspective",
+		"icon":"https://ultraamooz.com/wp-content/uploads/2024/01/sans-sec-573-150x150.png",
+		"url":"https://ultraamooz.com/product/sec573/"
+	}
+		,
+	{
+		"id":"0x4020",
+		"name":"CEH v12",
+		"caption":"Learn the legal hacker from a different perspective",
+		"icon":"https://pngimg.com/uploads/hacker/small/hacker_PNG8.png",
+		"url":"https://ultraamooz.com/product/sec573/"
+	} 
+]

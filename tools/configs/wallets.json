@@ -1,0 +1,64 @@
+[
+	
+  {
+    "type": "freesoftware",
+    "name": "Donate to development",
+    "caption": "This is a free software. You can help it develop by donating."
+  },
+  {
+    "type": "iranian",
+    "name": "For Iranians",
+    "caption": "You can buy us a coffee",
+    "address": "https://www.coffeebede.com/rahju",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/coffee.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/coffee.png"
+  },
+  {
+    "type": "btc",
+    "name": "Bitcoin (BTC)",
+     "caption": "Click to copy the wallet address.",
+    "address": "3KiBvdpnwV2uLhVzzzjbamKmpJD9i6hYnd",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/btc.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/btc.svg"
+  },
+  {
+    "type": "bch",
+    "name": "BitcoinCash (BCH)",
+     "caption": "Important: 'bitcoincash' is part of the new BCH address format! Click to copy the wallet address.",
+    "address": "bitcoincash:qq6f4c3hw3vmekp5g8tyzhy4x7l9q24hru2ujy0quj",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/bch.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/bch.svg"
+  },
+  {
+    "type": "doge",
+    "name": "DogeCoin (DOGE)",
+     "caption": "Click to copy the wallet address.",
+    "address": "DRjZbeEnyTpZcuNWz1oZu5oxewgJHhj2ti",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/doge.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/doge.svg"
+  },
+  {
+    "type": "xmr",
+    "name": "Monero (XMR)",
+     "caption": "Click to copy the wallet address.",
+    "address": "8AKLrBFGqjPJuLPPc4QmtiLs14XbM9gx4PSscizinSzYVY4it5gFarD7ST7Knm4omUjnQaeyJcnvGPGM4jqUrPVeP9qvZVg",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/xmr.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/xmr.svg"
+  },
+  {
+    "type": "ltc",
+    "name": "Lightcoin (LTC)",
+     "caption": "Click to copy the wallet address.",
+    "address": "Lf5U17XNyADogLa14BDuaTJkUvGHDizbFp",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/ltc.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/ltc.svg"
+  },
+  {
+    "type": "usdt",
+    "name": "Tether (USDT)",
+    "caption": "Click to copy the wallet address.",
+    "address": "3MwxfqorZ8uz3dfjJMHS2WyvSD9jUqgKRY",
+    "imgurl": "https://ultraamooz.com/tools/wallet-assets/usdt.png",
+    "svgurl": "https://ultraamooz.com/tools/wallet-assets/usdt.svg"
+  }
+]
