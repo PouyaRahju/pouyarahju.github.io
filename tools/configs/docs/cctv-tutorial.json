@@ -1,5 +1,15 @@
 [
 	{
+		"isimg":false,
+		"title":"آموزش بررسی امنیت دوربین های مداربسته",
+		"text":"این یه متن آموزشی تستیه"
+	}
+	,{
+		"isimg":true,
+		"url":"https://www.imgacademy.com/sites/default/files/ncsa-homepage-row-2022.jpg",
+		
+	},{
+		"isimg":false,
 		"title":"آموزش بررسی امنیت دوربین های مداربسته",
 		"text":"این یه متن آموزشی تستیه"
 	}
