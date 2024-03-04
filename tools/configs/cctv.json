@@ -2,5 +2,19 @@
   "version": 1,
   "version_name": "v1.0.5",
   "abs":false,
-  "url":"aHR0cHM6Ly91bHRyYWFtb296LmNvbQ=="
+  "url":"aHR0cHM6Ly91bHRyYWFtb296LmNvbQ==",
+  "prc":{
+    "1":"2KfYtNiq2LHYp9qpIDEg2LHZiNiy2Yc=",
+    "1p":"10",
+    "2":"2KfYtNiq2LHYp9qpIDcg2LHZiNiy2Yc=",
+    "2p":"29",
+    "3":"2KfYtNiq2LHYp9qpIDEg2YXYp9mH2Yc=",
+    "3p":"95",
+    "4":"2KfYtNiq2LHYp9qpIDMg2YXYp9mH2Yc=",
+    "4p":"197",
+    "5":"2KfYtNiq2LHYp9qpIDYg2YXYp9mH2Yc=",
+    "5p":"275",
+    "6":"2KfYtNiq2LHYp9qpINiz2KfZhNin2YbZhw==",
+    "6p":"550"
+  }
 }
