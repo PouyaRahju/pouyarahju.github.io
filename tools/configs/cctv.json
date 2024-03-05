@@ -2,7 +2,7 @@
   "version": 1,
   "version_name": "v1.0.5",
   "abs":false,
-  "adc":false,
+  "adc":true,
   "telurl":"dGc6Ly9yZXNvbHZlP2RvbWFpbj11bHRyYXNlY3VyaXR5",
   "url":"aHR0cHM6Ly91bHRyYWFtb296LmNvbQ==",
   "prc":{
