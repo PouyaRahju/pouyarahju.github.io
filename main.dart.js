@@ -61188,7 +61188,7 @@ t3(){var s=0,r=A.L(t.H),q=this,p
 var $async$t3=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.S($.mE().a1T("data/myinfo.txt"),$async$t3)
+return A.S($.mE().a1T("assets/data/myinfo.txt"),$async$t3)
 case 2:q.ag(new p.a1X(q,b))
 return A.J(null,r)}})
 return A.K($async$t3,r)},
@@ -61199,16 +61199,16 @@ A.a1X.prototype={
 $0(){this.a.d=this.b},
 $S:0}
 A.a1W.prototype={
-$2(a,b){var s,r,q,p,o=null,n="\u067e\u0648\u06cc\u0627 \u0631\u0647\u062c\u0648",m="SamimBold",l="\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633",k="SamimMedium",j="infoicon.png",i="Samim",h=b.b>740,g=t.E
-if(h){s=A.eM(A.dV(A.b([A.aZ(n,A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.b9(o,20,o),A.aZ(l,A.b_(o,o,o,o,o,o,o,o,k,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.b9(o,20,o),A.hp(A.b([A.h9(o,A.em(B.jI,o),new A.a1G(),o,o),A.h9(o,A.em(B.fI,o),new A.a1H(),o,o),A.h9(o,A.em(B.jH,o),new A.a1I(),o,o),A.h9(o,A.em(B.jJ,o),new A.a1O(),o,o)],g),B.T,B.e_,B.K)],g),B.bu,B.aH,B.K),5)
+$2(a,b){var s,r,q,p,o=null,n="\u067e\u0648\u06cc\u0627 \u0631\u0647\u062c\u0648",m="SamimBold",l="\u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633",k="SamimMedium",j="Samim",i=b.b>740,h=t.E
+if(i){s=A.eM(A.dV(A.b([A.aZ(n,A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.b9(o,20,o),A.aZ(l,A.b_(o,o,o,o,o,o,o,o,k,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.b9(o,20,o),A.hp(A.b([A.h9(o,A.em(B.jI,o),new A.a1G(),o,o),A.h9(o,A.em(B.fI,o),new A.a1H(),o,o),A.h9(o,A.em(B.jH,o),new A.a1I(),o,o),A.h9(o,A.em(B.jJ,o),new A.a1O(),o,o)],h),B.T,B.e_,B.K)],h),B.bu,B.aH,B.K),5)
 r=A.b9(o,o,20)
-q=A.a7K(j,300)
-q=A.hp(A.b([s,r,A.hT(A.dg(15),q,B.al),A.eM(A.b9(o,o,10),2)],g),B.T,B.aH,B.K)
-s=q}else{s=A.a7K(j,A.bW(a,o,t.w).w.a.a*0.8)
-s=A.dV(A.b([A.hT(A.dg(15),s,B.al),A.b9(o,20,o),A.aZ(n,A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.ax,o),A.b9(o,20,o),A.aZ(l,A.b_(o,o,o,o,o,o,o,o,k,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.ax,o),A.b9(o,20,o),A.hp(A.b([A.h9(o,A.em(B.jI,o),new A.a1P(),o,o),A.h9(o,A.em(B.fI,o),new A.a1Q(),o,o),A.h9(o,A.em(B.jH,o),new A.a1R(),o,o),A.h9(o,A.em(B.jJ,o),new A.a1S(),o,o)],g),B.T,B.aH,B.K)],g),B.T,B.ar,B.K)}r=A.b9(o,100,o)
-q=h?A.eM(A.b9(o,o,1),2):A.b9(o,o,10)
+q=A.a7K("assets/infoicon.png",300)
+q=A.hp(A.b([s,r,A.hT(A.dg(15),q,B.al),A.eM(A.b9(o,o,10),2)],h),B.T,B.aH,B.K)
+s=q}else{s=A.a7K("/assets/infoicon.png",A.bW(a,o,t.w).w.a.a*0.8)
+s=A.dV(A.b([A.hT(A.dg(15),s,B.al),A.b9(o,20,o),A.aZ(n,A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.ax,o),A.b9(o,20,o),A.aZ(l,A.b_(o,o,o,o,o,o,o,o,k,o,o,18,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.ax,o),A.b9(o,20,o),A.hp(A.b([A.h9(o,A.em(B.jI,o),new A.a1P(),o,o),A.h9(o,A.em(B.fI,o),new A.a1Q(),o,o),A.h9(o,A.em(B.jH,o),new A.a1R(),o,o),A.h9(o,A.em(B.jJ,o),new A.a1S(),o,o)],h),B.T,B.aH,B.K)],h),B.T,B.ar,B.K)}r=A.b9(o,100,o)
+q=i?A.eM(A.b9(o,o,1),2):A.b9(o,o,10)
 p=A.eM(A.aZ(this.a.d,A.b_(o,o,o,o,o,o,o,o,k,o,o,17,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,B.r),4)
-return A.BH(A.b([s,r,A.hp(A.b([q,p,h?A.eM(A.b9(o,o,1),2):A.b9(o,o,10)],g),B.T,B.aH,B.K),A.b9(o,100,o),A.hp(A.b([A.aZ("\u0645\u0647\u0627\u0631\u062a \u0647\u0627",A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,B.r)],g),B.T,B.aH,B.K),A.b9(o,20,o),new A.F6(B.Mh,10,10,A.b([A.m2(A.aZ("Python",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,B.r),new A.a1T()),A.m2(A.aZ("C/C++",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1U()),A.m2(A.aZ("Flutter",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1V()),A.m2(A.aZ("PHP",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1J()),A.m2(A.aZ("HTML/CSS/SASS/JS",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1K()),A.m2(A.aZ("Arduino",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1L()),A.m2(A.aZ("Photoshop",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1M()),A.m2(A.aZ("Godot",A.b_(o,o,o,o,o,o,o,o,i,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1N())],g),o)],g),new A.aD(10,50,10,50))},
+return A.BH(A.b([s,r,A.hp(A.b([q,p,i?A.eM(A.b9(o,o,1),2):A.b9(o,o,10)],h),B.T,B.aH,B.K),A.b9(o,100,o),A.hp(A.b([A.aZ("\u0645\u0647\u0627\u0631\u062a \u0647\u0627",A.b_(o,o,o,o,o,o,o,o,m,o,o,23,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,B.r)],h),B.T,B.aH,B.K),A.b9(o,20,o),new A.F6(B.Mh,10,10,A.b([A.m2(A.aZ("Python",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,B.r),new A.a1T()),A.m2(A.aZ("C/C++",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1U()),A.m2(A.aZ("Flutter",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1V()),A.m2(A.aZ("PHP",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1J()),A.m2(A.aZ("HTML/CSS/SASS/JS",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1K()),A.m2(A.aZ("Arduino",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1L()),A.m2(A.aZ("Photoshop",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1M()),A.m2(A.aZ("Godot",A.b_(o,o,o,o,o,o,o,o,j,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.O,o),new A.a1N())],h),o)],h),new A.aD(10,50,10,50))},
 $S:66}
 A.a1G.prototype={
 $0(){var s=0,r=A.L(t.H)
