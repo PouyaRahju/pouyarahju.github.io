@@ -1,20 +1,197 @@
 [
     {
-        "iscourse":true,
+        "iscourse": true,
         "url": "https://ultraamooz.com/product/sec573/",
         "academy_logo": "/static/images/ULTRAAMOOZ.png",
         "title": "دوره رایگان پایتون برای هکرها SANS SEC573 (2024)",
         "img": "/static/images/sec573.jpg",
         "date-of-publish": "۲۸ دی ۱۴۰۲",
-        "text":"در این دوره شما زبان برنامه نویسی پایتون رو یادمیگیرید و با مباحث Defensive، Offensive و Forensics آشنا میشید، و پس از پایان این دوره آماده هستید تا حوزۀ تخصصی خودتون رو انتخاب کنید.",
+        "text": "در این دوره شما زبان برنامه نویسی پایتون رو یادمیگیرید و با مباحث Defensive، Offensive و Forensics آشنا میشید، و پس از پایان این دوره آماده هستید تا حوزۀ تخصصی خودتون رو انتخاب کنید.",
         "seasons": [
             {
                 "title": "فصل اول: شروع پایتون از صفر",
                 "lessons": [
-                    "Installing Python",
+                    "Installing Python & IDE",
                     "Syntax",
                     "Variables",
-                    "Math Operators"
+                    "Math Operators",
+                    "Strings",
+                    "Functions",
+                    "Control Statements",
+                    "Modules",
+                    "تمرین های فصل اول"
+                ]
+            },
+            {
+                "title": "فصل دوم: مقدمات",
+                "lessons": [
+                    "List",
+                    "Tuple",
+                    "Dictionary",
+                    "Virtual Environments",
+                    "Debugging with Visual Studio Code",
+                    "Tricks and Shortcuts",
+                    "Useful Modules"
+                ]
+            },
+            {
+                "title": "فصل سوم:  تدافعی (Defensive)",
+                "lessons": [
+                    "File Operations",
+                    "Python Sets",
+                    "Regular Expressions",
+                    "Log Parsing",
+                    "Log Parsing with Regex",
+                    "Geolocation Acquisition",
+                    "Packet Analysis",
+                    "Packet Reassembly",
+                    "Payload Extraction"
+                ]
+            },
+            {
+                "title": "فصل چهارم: جرم شناسی سایبری (Forensics)",
+                "lessons": [
+                    "Acquiring Images from Disk",
+                    "Memory and the Network",
+                    "File Carving",
+                    "The Struct Module",
+                    "Raw Network Socket and Protocols",
+                    "Image Forensics and PIL",
+                    "SQL Queries",
+                    "Web Communications with the Requests Module",
+                    "Effective use of Online Website APIs"
+                ]
+            },
+            {
+                "title": "فصل پنجم: تهاجمی (Offensive)",
+                "lessons": [
+                    "Multithreading in Python",
+                    "Process Execution",
+                    "Blocking and Non-blocking Sockets",
+                    "Using the Select Module for Asynchronous Operations",
+                    "Python Objects",
+                    "Argument Packing and Unpacking"
+                ]
+            },
+            {
+                "title": "فصل ششم: تمرین های پایان دوره",
+                "lessons": [
+                    "LeakLookup GUI App",
+                    "Creating an Executable (.exe)",
+                    "Reverse Shell"
+                ]
+            }
+        ]
+    },
+    {
+        "iscourse": true,
+        "url": "https://ultraamooz.com/product/c4h-vip/",
+        "academy_logo": "/static/images/ULTRAAMOOZ.png",
+        "title": "دوره تحلیل روند توسعه بدافزار با زبان های C,Dart,Python",
+        "img": "/static/images/c-for-hacker-pro-1.jpg",
+        "date-of-publish": "۱۶ خرداد ۱۴۰۲",
+        "text": "در این دوره شما در ابتدا با زبان برنامه نویسی (C) آشنا میشید که همونطور که میدونید زبان سی قدرتمندترین زبان برنامه نویسی برای توسعه بدافزار هست و خفن ترین بدافزار های دنیا با زبان سی ساخته شدن و بعد از یادگیری زبان سی و آشنایی با کتابخانه های کاربردی برای بحث توسعه بدافزار، در قسمت پیشرفته این دوره ما وارد بخش توسعه بدافزار میشیم و یک بدافزار رو با پنل کنترل تحت وب ، موبایل و دسکتاپ از صفر توسعه میدیم که توسعه پنل وب با جنگو (Django) ، پنل موبایل و دسکتاپ با فلاتر (Flutter) خواهد بود.",
+        "seasons": [
+            {
+                "title": "فصل اول: مقدمه",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            },
+            {
+                "title": "فصل دوم: حافظه",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            },
+            {
+                "title": "فصل سوم: طراحی تروجان",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            },
+            {
+                "title": "فصل چهارم: طراحی پنل سمت وب",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            },
+            {
+                "title": "فصل پنجم: بایند سازی",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            },
+            {
+                "title": "فصل ششم: طراحی پنل موبایل",
+                "lessons": [
+                    "برای مشاهده قسمت ها به صفحه دوره در آکادمی مراجعه کنید"
+                ]
+            }
+        ]
+    },
+    {
+        "iscourse": true,
+        "url": "https://ultraamooz.com/product/c4h/",
+        "academy_logo": "/static/images/ULTRAAMOOZ.png",
+        "title": "دوره آموزش زبان C – ورود به حوزه تحلیل بدافزار",
+        "img": "/static/images/c-for-hacker-1.jpg",
+        "date-of-publish": "۱۱ دی ۱۴۰۱",
+        "text": "ما در این دوره آموزشی ابتدا به زبان ساده و کاربردی زبان برنامه نویسی C رو بصورت مقدماتی اموزش میدیم ، بعد از اون میریم سراغ کتابخانه های زبان سی که برای بحث طراحی و تحلیل بدافزار هست از اونا استفاده میکنیم کار باهاشون رو یاد میگیریم و در ادامه میریم یکسری مینی پروژه میزنیم برای اینکه قشنگ مباحث براتون جا بیفته ، این دوره نقطه ورود شماست به دنیای طراحی و تحلیل بدافزار",
+        "seasons": [
+            {
+                "title": "سرفصل دوره",
+                "lessons": [
+                    "نصب و راه اندازی",
+                    "include",
+                    "define",
+                    "متغیر های عددی",
+                    "متغیر کاراکتری",
+                    "const",
+                    "آرایه",
+                    "string",
+                    "توابع",
+                    "پوینتر ها",
+                    "if",
+                    "switch",
+                    "for",
+                    "while",
+                    "دستور goto",
+                    "استراکچر",
+                    "کار با فایل ها",
+                    "تفاوت sizeof و strlen",
+                    "کار با string.h",
+                    "هدر فایل ها",
+                    "مینی پروژه رمزنگار متن",
+                    "استفاده از dll",
+                    "خالی کردن سطل زباله",
+                    "کم و زیاد کردن ولوم صدای سیستم",
+                    "میوت کردن صدای سیستم",
+                    "خاموش و روشن کردن مانیتور توسط برنامه",
+                    "گرفتن اسکرین شات از صفحه",
+                    "بردن سیستم به حالت استند بای",
+                    "لاگ اوت کردن کاربر",
+                    "خاموش کردن سیستم",
+                    "ریستارت کردن سیستم",
+                    "بستن برنامه های دیگر",
+                    "تغییر تنظیمات رزولوشن صفحه",
+                    "کار با کلیپ بورد سیستم",
+                    "نمایش پیام روی صفحه",
+                    "نمایش آلارم trayballoon",
+                    "ساخت برنامه تبدیل متن به گفتار",
+                    "کنترل مختصات مکانی موس",
+                    "کنترل کلید های موس",
+                    "کنترل کیبورد",
+                    "برنامه تغییر فرمت عکس از PNG به GIF",
+                    "مینی پروژه ساخت ویروس",
+                    "بررسی کاملتر پوینتر ها",
+                    "لینک کردن دو سورس کد به یکدیگر",
+                    "درخواست های HTTP",
+                    "نمونه درخواست های HTTP با winhttp",
+                    "آموزش نصب libcurl",
+                    "درخواست های HTTP با curl",
+                    "پردازش دیتای  دریافتی از سرور در libcurl",
+                    "مینی پروژه ساخت C2 ساده"
                 ]
             }
         ]
