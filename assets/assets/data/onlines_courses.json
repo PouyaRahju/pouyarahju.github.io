@@ -1,0 +1,22 @@
+[
+    {
+        "iscourse":true,
+        "url": "https://ultraamooz.com/product/sec573/",
+        "academy_logo": "https://ultraamooz.com/wp-content/uploads/2022/01/ULTRAAMOOZ.png",
+        "title": "دوره رایگان پایتون برای هکرها SANS SEC573 (2024)",
+        "img": "http://localhost:55779/assets/images/sec573.jpg",
+        "date-of-publish": "۲۸ دی ۱۴۰۲",
+        "text":"در این دوره شما زبان برنامه نویسی پایتون رو یادمیگیرید و با مباحث Defensive، Offensive و Forensics آشنا میشید، و پس از پایان این دوره آماده هستید تا حوزۀ تخصصی خودتون رو انتخاب کنید.",
+        "seasons": [
+            {
+                "title": "فصل اول: شروع پایتون از صفر",
+                "lessons": [
+                    "Installing Python",
+                    "Syntax",
+                    "Variables",
+                    "Math Operators"
+                ]
+            }
+        ]
+    }
+]
